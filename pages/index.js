@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Maze'h</title>
+        <title>Maze-h</title>
       </Head>
       <h1>Totoiuga</h1>
     </div>
