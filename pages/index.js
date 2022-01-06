@@ -5,7 +5,12 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
-      
+      <Head>
+        <title>Maze'h</title>
+      </Head>
+      <main>
+        <h1>Totoiuga</h1>
+      </main>
     </div>
   )
 }
