@@ -8,9 +8,7 @@ export default function Home() {
       <Head>
         <title>Maze'h</title>
       </Head>
-      <main>
-        <h1>Totoiuga</h1>
-      </main>
+      <h1>Totoiuga</h1>
     </div>
   )
 }
